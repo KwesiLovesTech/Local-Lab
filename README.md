@@ -10,6 +10,6 @@ This repo documents hands-on experiments, configurations, and automation I've im
 
 | Project | Description | Key Tools |
 |--------|-------------|-----------|
-| **Three-Tier Web App Stack** | Local deployment of web, app, and DB tiers with NGINX + Tomcat + MySQL | Vagrant, VirtualBox, Ansible |
-| **Secure Linux Baseline** | Hardening CentOS/Ubuntu VMs with SSH configs, UFW, and user auditing | Bash, Ansible |
-| **CI/CD Pipeline in Homelab** | Jenkins pipeline with SonarQube and Nexus running locally | Jenkins, Docker, Ansible |
+| [**Three-Tier Web App Stack**](https://github.com/KwesiLovesTech/Vprofile-Project-Multi-Tier-Web-Application-Stack-Setup-Locally) | Local deployment of web, app, and DB tiers with NGINX + Tomcat + MySQL | Vagrant, VirtualBox, Ansible |
+| [**One-Click IaC Deployment**](https://github.com/KwesiLovesTech/KwesiLovesTech-One-Click-IaC-Deployment-VProfile.git) | One-Click Deployment of a complete multi-tier web application stack using Infrastructure as Code (IaC) principles. | Bash, DevSecOps Principles |
+| [**WordPress Server Deployment**](https://github.com/KwesiLovesTech/WordPress-Server-using-LAMP-stack-UbuntuLinux)  | Installed and configured a WordPress server locally using LAMP stack. Focused on service optimization, permission hardening, and manual patching workflows. | Linux Admin, Web Server Setup, DevOps |
